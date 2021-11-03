@@ -55,10 +55,8 @@
 * 電路圖
 <img src="https://user-images.githubusercontent.com/93152909/140179649-9f240a35-3d61-4b30-837a-454e4637fc74.png" width="400px">
 
-* 範例圖
 ## RGB LED
 > 程式碼：supplement2.ino
+* 額外材料：「共陽極 」RGB LED
 * 電路圖
 <img src="https://user-images.githubusercontent.com/93152909/140181836-6c355ce1-e64f-4a5f-9221-a742ae87e576.png" width="400px">
-
-* 範例圖
