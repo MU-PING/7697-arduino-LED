@@ -1,11 +1,12 @@
 # 7697-arduino-LED
 ## 程式簡介
 ### 簡述
-> 外接 LED 有很多應用，此處以閃爍為範例，程式碼：main.ino
+> LED 有很多應用，此處以閃爍為範例，程式碼：main.ino
 
 * 使用麵包版當作擴充版
 * 使用電阻調控LED亮度
 * Pin 2 當作輸出腳位 ( 正極 )
+* 控制 LED 一亮一暗
 #### 使用材料
 * USB線
 * LinkIt7697
@@ -50,7 +51,7 @@
  
 <img src="https://user-images.githubusercontent.com/93152909/140176772-faa5b0fe-1f82-4f69-94c6-a6e6e78b6f69.png" width="300px">
 
-## 外接 LED 補充
+## LED 補充
 > 補充其他 LED 燈應用，並附上原始碼
 ### LED呼吸燈------------------------------------------------------------
 > 程式碼：supplement1.ino
