@@ -50,14 +50,14 @@
  
 <img src="https://user-images.githubusercontent.com/93152909/140176772-faa5b0fe-1f82-4f69-94c6-a6e6e78b6f69.png" width="300px">
 
-# 外接 LED 補充
+## 外接 LED 補充
 > 補充其他 LED 燈應用，並附上原始碼
-## LED呼吸燈
+### LED呼吸燈------------------------------------------------------------
 > 程式碼：supplement1.ino
 * 電路圖
 <img src="https://user-images.githubusercontent.com/93152909/140179649-9f240a35-3d61-4b30-837a-454e4637fc74.png" width="400px">
 
-## RGB LED
+### RGB LED------------------------------------------------------------
 > 程式碼：supplement2.ino
 * 額外材料：「共陽極 」RGB LED
 * 電路圖
